@@ -3,31 +3,31 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "GEN-UNIQUE-10"
+            "value": "Azureuser"
         },
         "adminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Newpass@word1"
         },
         "sqlServerServiceAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Newpass@word1"
         },
         "sharePointSetupUserAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Newpass@word1"
         },
         "sharePointFarmAccountPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Newpass@word1"
         },
         "sharePointFarmPassphrasePassword": {
-            "value": "GEN-PASSWORD"
+            "value": "Newpass@word1"
         },
         "sppublicIPAddressName": {
-            "value": "GEN-UNIQUE"
+            "value": "spPIP"
         },
         "spDNSPrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "spDns"
         },
         "storageAccountNamePrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "spSA"
         }
     }
 }

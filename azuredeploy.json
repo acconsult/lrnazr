@@ -14,7 +14,7 @@
       "metadata": {
         "description": "The region to deploy the resources into"
       },
-      "defaultValue":"[resourceGroup().location]"
+      "defaultValue":"westeurope"
     },
     "virtualNetworkName": {
       "type": "string",
