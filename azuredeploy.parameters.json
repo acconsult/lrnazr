@@ -21,13 +21,13 @@
             "value": "Newpass@word1"
         },
         "sppublicIPAddressName": {
-            "value": "spPIP"
+            "value": "sppip"
         },
         "spDNSPrefix": {
-            "value": "spDns"
+            "value": "spdns"
         },
         "storageAccountNamePrefix": {
-            "value": "spSA"
+            "value": "spsa"
         }
     }
 }
