@@ -162,7 +162,7 @@
         "artifactsBaseUrl": "",
         "description": "URL to acquire other templates"
       },
-      "defaultValue": "https://github.com/acconsult/lrnazr/blob/master/"
+      "defaultValue": "https://raw.githubusercontent.com/acconsult/lrnazr/master/"
     },
     "spPublicIPNewOrExisting": {
       "type": "string",
